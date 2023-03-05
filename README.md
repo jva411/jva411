@@ -1,8 +1,11 @@
 ## Olá, eu sou o João Victor 👋
 
-- 🔭 Atualmente eu trabalho com desenvolvimento web usando NextJS e também com o desenvolvimento de uma API Rest usando Flask + MongoDB
+Eu me interessei pela área de computação desde o cólegio, e hoje estou graduando no curso de Ciência da Computação da UFC de Fortaleza-CE.
+Atualmente gosto de estudar as áreas de desenvolvimento para web, tanto front Front-End como Back-end, e estou sempre procurando melhorar. 
+
+- 🔭 Estou trabalhando com desenvolvimento web usando NextJS e também com o desenvolvimento de uma API Rest usando Flask + MongoDB.
 - 🌱 Estou aprendendo técnicas para otimização no Front-End que mantenham as boas práticas de clean code, acessibilidade, SEO, etc.
-- 🌱 Além disso, estou de olho na linguagem Rust e pretendo começar a estudá-la em breve.
+- 🌱 Também tenho me interessado pela linguagem Rust e pretendo começar a estudá-la em breve.
 
 ##
 
