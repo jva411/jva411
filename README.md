@@ -20,6 +20,9 @@ Atualmente gosto de estudar as áreas de desenvolvimento para web, tanto front F
   <a href="https://www.linkedin.com/in/joão-victor-a49192172/" target="_blank" title="Meu Linkedin">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link para o meu perfil do Linkedin">
   </a>
+  <a href="https://portfolio-jva411.vercel.app" target="_blank" title"Meu Portfólio">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Link para o meu portfólio">
+  </a>
   <a href="https://github.com/jva411" title="Meu GitHub">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Link para o meu perfil do GitHub">
   </a>
